@@ -1,0 +1,20 @@
+[submodule "jpa-kyh-basic"]
+	path = jpa-kyh-basic
+	url = https://github.com/sohee52/jpa-kyh-basic.git
+	branch = main
+[submodule "jpa-kyh-application1"]
+	path = jpa-kyh-application1
+	url = https://github.com/sohee52/jpa-kyh-application1.git
+	branch = main
+[submodule "jpa-kyh-application2"]
+	path = jpa-kyh-application2
+	url = https://github.com/sohee52/jpa-kyh-application2.git
+	branch = main
+[submodule "spring-kyh-datajpa"]
+	path = spring-kyh-datajpa
+	url = https://github.com/sohee52/spring-kyh-datajpa.git
+	branch = main
+[submodule "querydsl-kyh"]
+	path = querydsl-kyh
+	url = https://github.com/sohee52/querydsl-kyh.git
+	branch = main
